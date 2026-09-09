@@ -1,0 +1,63 @@
+filters:
+  and:
+    - file.ext == "md"
+properties:
+  file.name:
+    displayName: 笔记
+  domain:
+    displayName: 所属域
+  topic:
+    displayName: 专题
+  type:
+    displayName: 类型
+  created:
+    displayName: 创建
+  updated:
+    displayName: 更新
+  file.folder:
+    displayName: 目录
+views:
+  - type: table
+    name: 全部笔记
+    groupBy:
+      property: domain
+      direction: ASC
+    order:
+      - file.name
+      - domain
+      - topic
+      - type
+      - updated
+      - file.folder
+    limit: 200
+  - type: table
+    name: 按专题
+    groupBy:
+      property: topic
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - updated
+    limit: 200
+  - type: cards
+    name: 索引卡片
+    filters:
+      and:
+        - file.hasTag("索引")
+    order:
+      - file.name
+      - domain
+      - type
+    limit: 50
+  - type: table
+    name: 需要复习（最久未更新）
+    groupBy:
+      property: domain
+      direction: ASC
+    order:
+      - file.name
+      - domain
+      - topic
+      - updated
+    limit: 30

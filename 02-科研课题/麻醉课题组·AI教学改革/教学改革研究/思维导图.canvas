@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"8d51bb6d5105d303","type":"text","text":"医学教育智能体构建及临床实践教学应用研究——基于自建知识库与领域自适应大语言模型","x":40,"y":-1212,"width":285,"height":104},
+		{"id":"7cd0fb3c9c58f0bb","type":"file","file":"麻醉课题组/教学改革研究/自建知识库+领域自适应 大语言模型.md","x":-17,"y":-1746,"width":400,"height":200},
+		{"id":"52e0234d8d5e1edc","type":"text","text":"前期研究成果\n1. “豆包”APP生成式人工智能体教学\n2. 构建基于自建知识库+大模型知识引擎的麻醉实习智能体（DeepSeek-V3）\n\t- 想法：跨学科链接知识点（e.g. 解剖学和组织学与胚胎学知识点链接），可以训练模型自行标注并且链接","x":462,"y":-1760,"width":406,"height":214},
+		{"id":"426969bb75d4aeed","type":"file","file":"麻醉课题组/教学改革研究/研究意义.md","x":-492,"y":-1940,"width":400,"height":400},
+		{"id":"54b7f3660045e114","type":"file","file":"麻醉课题组/教学改革研究/临床实践困境与AI应用挑战.md","x":-492,"y":-798,"width":400,"height":588},
+		{"id":"0afc1a7256856a8c","type":"text","text":"问题分析","x":-417,"y":-1190,"width":250,"height":60},
+		{"id":"d7c13a5cbb5e6704","type":"file","file":"麻醉课题组/教学改革研究/未来智慧教育生态.md","x":-1097,"y":-1735,"width":400,"height":400},
+		{"id":"69782875232fee80","type":"file","file":"麻醉课题组/教学改革研究/AI在教育中的实践.md","x":-1097,"y":-1235,"width":400,"height":850},
+		{"id":"62db8d94c15674fe","x":-18,"y":-839,"width":400,"height":629,"type":"file","file":"麻醉课题组/教学改革研究/研究方法.md"},
+		{"id":"f1880dcca3219cd7","type":"file","file":"麻醉课题组/教学改革研究/问题解决策略.md","x":924,"y":-1940,"width":400,"height":1160},
+		{"id":"563645754a6eefed","type":"text","text":" 解决资源分配不均与管理低效问题","x":1014,"y":-635,"width":310,"height":60},
+		{"id":"9d7b1555f3a8eb05","type":"text","text":"破解教学模式与临床需求脱节难题","x":1014,"y":-505,"width":310,"height":60},
+		{"id":"8ff7cb0ee2418b24","type":"text","text":"革新考核评估体系与AI技术适配性","x":1014,"y":-385,"width":310,"height":60},
+		{"id":"77e6d31cbe33c1e5","type":"text","text":"推动医学教育智能化转型","x":1014,"y":-255,"width":310,"height":50},
+		{"id":"fffdf11bd037d409","type":"text","text":"研究目标","x":663,"y":-445,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"21fc43c4d8764622","fromNode":"fffdf11bd037d409","fromSide":"right","toNode":"9d7b1555f3a8eb05","toSide":"left"},
+		{"id":"f36071a7af146fa7","fromNode":"0afc1a7256856a8c","fromSide":"bottom","toNode":"54b7f3660045e114","toSide":"top"},
+		{"id":"b1c8400c1f405c7a","fromNode":"0afc1a7256856a8c","fromSide":"left","toNode":"69782875232fee80","toSide":"right"},
+		{"id":"d23735ba92625f60","fromNode":"0afc1a7256856a8c","fromSide":"left","toNode":"d7c13a5cbb5e6704","toSide":"right"},
+		{"id":"e10a7035a087a5ac","fromNode":"8d51bb6d5105d303","fromSide":"top","toNode":"426969bb75d4aeed","toSide":"bottom"},
+		{"id":"935de600c2e83c7f","fromNode":"8d51bb6d5105d303","fromSide":"top","toNode":"7cd0fb3c9c58f0bb","toSide":"bottom"},
+		{"id":"1f8cef10b279118b","fromNode":"8d51bb6d5105d303","fromSide":"top","toNode":"52e0234d8d5e1edc","toSide":"bottom"},
+		{"id":"3871f7af1b1eee0d","fromNode":"8d51bb6d5105d303","fromSide":"left","toNode":"0afc1a7256856a8c","toSide":"right"},
+		{"id":"6274f83386eeb0a1","fromNode":"fffdf11bd037d409","fromSide":"right","toNode":"8ff7cb0ee2418b24","toSide":"left"},
+		{"id":"c1387d7845e6bee1","fromNode":"fffdf11bd037d409","fromSide":"right","toNode":"8ff7cb0ee2418b24","toSide":"left"},
+		{"id":"5ade7aaf274f4eb2","fromNode":"fffdf11bd037d409","fromSide":"right","toNode":"77e6d31cbe33c1e5","toSide":"left"},
+		{"id":"ec56881ab28922bc","fromNode":"8d51bb6d5105d303","fromSide":"right","toNode":"f1880dcca3219cd7","toSide":"left"},
+		{"id":"abfe876021392277","fromNode":"8d51bb6d5105d303","fromSide":"right","toNode":"fffdf11bd037d409","toSide":"top"},
+		{"id":"ad038c6da812c693","fromNode":"8d51bb6d5105d303","fromSide":"bottom","toNode":"62db8d94c15674fe","toSide":"top"},
+		{"id":"1b062ddc4d063f98","fromNode":"fffdf11bd037d409","fromSide":"right","toNode":"9d7b1555f3a8eb05","toSide":"left"},
+		{"id":"5a872ddb9db91851","fromNode":"fffdf11bd037d409","fromSide":"right","toNode":"563645754a6eefed","toSide":"left"}
+	]
+}

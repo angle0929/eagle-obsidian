@@ -1,0 +1,13 @@
+# 设备相关：不同电脑窗口布局不同，同步易冲突
+.obsidian/workspace.json
+.obsidian/app.json
+
+# Obsidian 回收站
+.trash/
+
+# 操作系统杂项
+.DS_Store
+Thumbs.db
+
+# 大体积手动备份：已由 Git 接管版本管理，无需再入库
+.workbuddy/backup-*/
