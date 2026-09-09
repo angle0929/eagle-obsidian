@@ -1,0 +1,60 @@
+{
+  "keywords": [
+    {
+      "keyword": "TODO",
+      "color": "#000",
+      "backgroundColor": "#A9CCE3",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "ADD",
+      "color": "#000",
+      "backgroundColor": "#8DE3C2",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "FIXME",
+      "color": "#000",
+      "backgroundColor": "#BAA2E8",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "最合理的未来",
+      "color": "#1e1e1e",
+      "backgroundColor": "#edb5dc",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "收敛",
+      "color": "#1e1e1e",
+      "backgroundColor": "#a9efde",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "理解场景",
+      "color": "#1e1e1e",
+      "backgroundColor": "#fde258",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    },
+    {
+      "keyword": "导管",
+      "color": "#1e1e1e",
+      "backgroundColor": "#b9daef",
+      "fontModifiers": [],
+      "showColor": true,
+      "showBackgroundColor": true
+    }
+  ]
+}
