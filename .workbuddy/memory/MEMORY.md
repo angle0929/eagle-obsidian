@@ -1,4 +1,4 @@
-# 项目记忆：eagle-knowledge-base（Obsidian 知识库）
+# 项目记忆：eagle-obsidian（Obsidian 知识库）
 
 ## 库结构（2026-09-09 重构后）
 
