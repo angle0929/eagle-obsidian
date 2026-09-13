@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDXML id="1" Domain="Space" BondLength="30">
+  <fonttable><font id="1" charset="0" name="Arial"/></fonttable>
+  <colortable><color r="0" g="0" b="0"/></colortable>
+  <page id="2">
+    <fragment id="3">
+      <n id="10" p="-210.20 24.59" Element="6"/>
+      <n id="11" p="-189.94 2.46" Element="6"/>
+      <n id="12" p="-160.65 8.94" Element="6"/>
+      <n id="13" p="-140.40 -13.19" Element="6"/>
+      <n id="14" p="-111.10 -6.71" Element="6"/>
+      <n id="15" p="-90.85 -28.84" Element="6"/>
+      <n id="16" p="-61.55 -22.36" Element="6"/>
+      <n id="17" p="-55.08 -51.65" Element="6"/>
+      <n id="18" p="-68.03 6.93" Element="6"/>
+      <n id="19" p="-32.26 -15.88" Element="6"/>
+      <n id="20" p="-12.01 -38.01" Element="6"/>
+      <n id="21" p="17.29 -31.53" Element="6"/>
+      <n id="22" p="37.54 -53.66" Element="8"/>
+      <n id="23" p="26.32 -2.92" Element="6"/>
+      <n id="24" p="6.07 19.20" Element="6"/>
+      <n id="25" p="-23.23 12.73" Element="6"/>
+      <n id="26" p="15.10 47.81" Element="8"/>
+      <n id="27" p="44.39 54.29" Element="6"/>
+      <n id="28" p="69.70 70.40" Element="6"/>
+      <n id="29" p="32.93 82.01" Element="6"/>
+      <n id="30" p="64.65 32.16" Element="6"/>
+      <n id="31" p="93.94 38.64" Element="6"/>
+      <n id="32" p="114.20 16.51" Element="6"/>
+      <n id="33" p="105.16 -12.10" Element="6"/>
+      <n id="34" p="125.42 -34.22" Element="6"/>
+      <n id="35" p="116.38 -62.83" Element="8"/>
+      <n id="36" p="154.71 -27.75" Element="8"/>
+      <n id="37" p="75.87 -18.57" Element="6"/>
+      <n id="38" p="55.61 3.55" Element="6"/>
+      <b id="1000" B="10" E="11" Order="1"/>
+      <b id="1001" B="11" E="12" Order="1"/>
+      <b id="1002" B="12" E="13" Order="1"/>
+      <b id="1003" B="13" E="14" Order="1"/>
+      <b id="1004" B="14" E="15" Order="1"/>
+      <b id="1005" B="15" E="16" Order="1"/>
+      <b id="1006" B="16" E="17" Order="1"/>
+      <b id="1007" B="16" E="18" Order="1"/>
+      <b id="1008" B="16" E="19" Order="1"/>
+      <b id="1009" B="19" E="20" Order="2"/>
+      <b id="1010" B="20" E="21" Order="1"/>
+      <b id="1011" B="21" E="22" Order="1"/>
+      <b id="1012" B="21" E="23" Order="2"/>
+      <b id="1013" B="23" E="24" Order="1"/>
+      <b id="1014" B="24" E="25" Order="2"/>
+      <b id="1015" B="24" E="26" Order="1"/>
+      <b id="1016" B="26" E="27" Order="1"/>
+      <b id="1017" B="27" E="28" Order="1"/>
+      <b id="1018" B="27" E="29" Order="1"/>
+      <b id="1019" B="27" E="30" Order="1"/>
+      <b id="1020" B="30" E="31" Order="1"/>
+      <b id="1021" B="31" E="32" Order="1"/>
+      <b id="1022" B="32" E="33" Order="2"/>
+      <b id="1023" B="33" E="34" Order="1"/>
+      <b id="1024" B="34" E="35" Order="2"/>
+      <b id="1025" B="34" E="36" Order="1"/>
+      <b id="1026" B="33" E="37" Order="1"/>
+      <b id="1027" B="37" E="38" Order="1"/>
+      <b id="1028" B="25" E="19" Order="1"/>
+      <b id="1029" B="38" E="30" Order="1"/>
+      <b id="1030" B="38" E="23" Order="1"/>
+    </fragment>
+  </page>
+</CDXML>

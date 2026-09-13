@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDXML id="1" Domain="Space" BondLength="30">
+  <fonttable><font id="1" charset="0" name="Arial"/></fonttable>
+  <colortable><color r="0" g="0" b="0"/></colortable>
+  <page id="2">
+    <fragment id="3">
+      <n id="10" p="90.00 0.00" Element="6"/>
+      <n id="11" p="75.00 25.98" Element="6"/>
+      <n id="12" p="45.00 25.98" Element="6"/>
+      <n id="13" p="30.00 0.00" Element="6"/>
+      <n id="14" p="0.00 0.00" Element="50"/>
+      <n id="15" p="-15.00 -25.98" Element="6"/>
+      <n id="16" p="0.00 -51.96" Element="6"/>
+      <n id="17" p="-15.00 -77.94" Element="6"/>
+      <n id="18" p="-45.00 -77.94" Element="6"/>
+      <n id="19" p="-60.00 -51.96" Element="6"/>
+      <n id="20" p="-45.00 -25.98" Element="6"/>
+      <n id="21" p="-15.00 25.98" Element="6"/>
+      <n id="22" p="-45.00 25.98" Element="6"/>
+      <n id="23" p="-60.00 51.96" Element="6"/>
+      <n id="24" p="-45.00 77.94" Element="6"/>
+      <n id="25" p="-15.00 77.94" Element="6"/>
+      <n id="26" p="-0.00 51.96" Element="6"/>
+      <n id="27" p="45.00 -25.98" Element="6"/>
+      <n id="28" p="75.00 -25.98" Element="6"/>
+      <b id="1000" B="10" E="11" Order="2"/>
+      <b id="1001" B="11" E="12" Order="1"/>
+      <b id="1002" B="12" E="13" Order="2"/>
+      <b id="1003" B="13" E="14" Order="1"/>
+      <b id="1004" B="14" E="15" Order="1"/>
+      <b id="1005" B="15" E="16" Order="2"/>
+      <b id="1006" B="16" E="17" Order="1"/>
+      <b id="1007" B="17" E="18" Order="2"/>
+      <b id="1008" B="18" E="19" Order="1"/>
+      <b id="1009" B="19" E="20" Order="2"/>
+      <b id="1010" B="14" E="21" Order="1"/>
+      <b id="1011" B="21" E="22" Order="2"/>
+      <b id="1012" B="22" E="23" Order="1"/>
+      <b id="1013" B="23" E="24" Order="2"/>
+      <b id="1014" B="24" E="25" Order="1"/>
+      <b id="1015" B="25" E="26" Order="2"/>
+      <b id="1016" B="13" E="27" Order="1"/>
+      <b id="1017" B="27" E="28" Order="2"/>
+      <b id="1018" B="28" E="10" Order="1"/>
+      <b id="1019" B="20" E="15" Order="1"/>
+      <b id="1020" B="26" E="21" Order="1"/>
+    </fragment>
+  </page>
+</CDXML>

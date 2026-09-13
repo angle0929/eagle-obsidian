@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDXML id="1" Domain="Space" BondLength="30">
+  <fonttable><font id="1" charset="0" name="Arial"/></fonttable>
+  <colortable><color r="0" g="0" b="0"/></colortable>
+  <page id="2">
+    <fragment id="3">
+      <n id="10" p="-42.74 52.74" Element="8"/>
+      <n id="11" p="-39.13 22.96" Element="6"/>
+      <n id="12" p="-11.53 11.19" Element="6"/>
+      <n id="13" p="12.45 29.21" Element="6"/>
+      <n id="14" p="40.05 17.45" Element="6"/>
+      <n id="15" p="64.03 35.47" Element="6"/>
+      <n id="16" p="91.63 23.70" Element="6"/>
+      <n id="17" p="95.24 -6.08" Element="6"/>
+      <n id="18" p="122.84 -17.84" Element="8"/>
+      <n id="19" p="71.26 -24.10" Element="6"/>
+      <n id="20" p="74.87 -53.88" Element="8"/>
+      <n id="21" p="43.66 -12.33" Element="6"/>
+      <n id="22" p="-63.12 4.94" Element="6"/>
+      <n id="23" p="-59.51 -24.84" Element="6"/>
+      <n id="24" p="-83.49 -42.86" Element="6"/>
+      <n id="25" p="-111.09 -31.10" Element="6"/>
+      <n id="26" p="-114.70 -1.32" Element="6"/>
+      <n id="27" p="-90.72 16.70" Element="6"/>
+      <b id="1000" B="10" E="11" Order="2"/>
+      <b id="1001" B="11" E="12" Order="1"/>
+      <b id="1002" B="12" E="13" Order="2"/>
+      <b id="1003" B="13" E="14" Order="1"/>
+      <b id="1004" B="14" E="15" Order="1"/>
+      <b id="1005" B="15" E="16" Order="2"/>
+      <b id="1006" B="16" E="17" Order="1"/>
+      <b id="1007" B="17" E="18" Order="1"/>
+      <b id="1008" B="17" E="19" Order="2"/>
+      <b id="1009" B="19" E="20" Order="1"/>
+      <b id="1010" B="19" E="21" Order="1"/>
+      <b id="1011" B="11" E="22" Order="1"/>
+      <b id="1012" B="22" E="23" Order="2"/>
+      <b id="1013" B="23" E="24" Order="1"/>
+      <b id="1014" B="24" E="25" Order="2"/>
+      <b id="1015" B="25" E="26" Order="1"/>
+      <b id="1016" B="26" E="27" Order="2"/>
+      <b id="1017" B="21" E="14" Order="2"/>
+      <b id="1018" B="27" E="22" Order="1"/>
+    </fragment>
+  </page>
+</CDXML>
